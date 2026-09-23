@@ -1,0 +1,83 @@
+{"kind":"deck","id":"pr/969f3p","name":"Deck"}
+{"kind":"layout","layoutId":"f9d3fc00-8aaf-4939-8701-0acaa55a23a6","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"01d784d6-ef00-407d-8a9a-a0a4eb31fa3b","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/9vpdzc","slide":1,"title":"ปักกิ่ง × เทียนจิน","textShapes":5}
+{"kind":"shape","id":"sh/2tc3idcz","slide":1,"bbox":[72,78,16,510]}
+{"kind":"textbox","id":"sh/pgnmd8va","slide":1,"text":"ปักกิ่ง × เทียนจิน","textPreview":"ปักกิ่ง × เทียนจิน","textChars":18,"textLines":1,"bbox":[126,132,940,72]}
+{"kind":"textbox","id":"sh/4vu5knu5","slide":1,"text":"งบค่าเข้าสถานที่ การเดินทาง และแผนการจอง","textPreview":"งบค่าเข้าสถานที่ การเดินทาง และแผนการจอง","textChars":40,"textLines":1,"bbox":[130,222,890,42]}
+{"kind":"textbox","id":"sh/ri54fidg","slide":1,"text":"3–7 ธันวาคม 2026  |  ผู้เดินทาง 4 ผู้ใหญ่","textPreview":"3–7 ธันวาคม 2026  |  ผู้เดินทาง 4 ผู้ใหญ่","textChars":41,"textLines":1,"bbox":[130,290,780,32]}
+{"kind":"textbox","id":"sh/qhwnmdcv","slide":1,"text":"ไม่รวมตั๋วเครื่องบิน โรงแรม และอาหาร\nงบแนะนำ: ¥3,650–3,750 สำหรับทั้งกลุ่ม","textPreview":"ไม่รวมตั๋วเครื่องบิน โรงแรม และอาหาร | งบแนะนำ: ¥3,650–3,750 สำหรับทั้งกลุ่ม","textChars":74,"textLines":2,"bbox":[130,448,750,68]}
+{"kind":"textbox","id":"sh/dknmhsvm","slide":1,"text":"อัตราแลกเปลี่ยนโดยประมาณ ¥1 ≈ ฿4.9","textPreview":"อัตราแลกเปลี่ยนโดยประมาณ ¥1 ≈ ฿4.9","textChars":34,"textLines":1,"bbox":[130,559,460,24]}
+{"kind":"notes","id":"nt/9vpdzc","slide":1,"text":"Source itinerary: Beijing_Tianjin_Trip_3-7_Dec_2026_Detailed_v2.pdf. FX used only as a rough conversion, not a booking rate."}
+{"kind":"slide","id":"sl/jv4mmf","slide":2,"title":"งบรวมที่แนะนำ","textShapes":7}
+{"kind":"textbox","id":"sh/idsvml4j","slide":2,"text":"งบรวมที่แนะนำ","textPreview":"งบรวมที่แนะนำ","textChars":13,"textLines":1,"bbox":[72,50,1136,56]}
+{"kind":"textbox","id":"sh/50jux0nu","slide":2,"text":"ใช้รถไฟ First Class, รถบัสตรงไป Mutianyu และ Didi ในเทียนจิน","textPreview":"ใช้รถไฟ First Class, รถบัสตรงไป Mutianyu และ Didi ในเทียนจิน","textChars":60,"textLines":1,"bbox":[74,109,1120,28]}
+{"kind":"shape","id":"sh/4fadovmp","slide":2,"bbox":[72,145,1136,3]}
+{"kind":"textbox","id":"sh/vahcr65s","slide":2,"text":"¥3,656","textPreview":"¥3,656","textChars":6,"textLines":1,"bbox":[76,190,380,74]}
+{"kind":"textbox","id":"sh/u98bi147","slide":2,"text":"กรณีบินเข้าและออก PEK","textPreview":"กรณีบินเข้าและออก PEK","textChars":21,"textLines":1,"bbox":[80,274,330,28]}
+{"kind":"textbox","id":"sh/hczutgny","slide":2,"text":"ประมาณ ฿17,900","textPreview":"ประมาณ ฿17,900","textChars":14,"textLines":1,"bbox":[80,328,360,42]}
+{"kind":"textbox","id":"sh/wbqdkbmd","slide":2,"text":"ถ้าใช้สนามบิน PKX: เพิ่มราว ¥88\nถ้าเลือก Second Class: ลด ¥268","textPreview":"ถ้าใช้สนามบิน PKX: เพิ่มราว ¥88 | ถ้าเลือก Second Class: ลด ¥268","textChars":62,"textLines":2,"bbox":[80,412,410,62]}
+{"kind":"textbox","id":"sh/e5cvu54r","slide":2,"text":"ยอดนี้มีเงินเผื่อสำหรับ Didi แล้ว แต่ยังไม่รวมค่ารถจากสนามบินถึงโรงแรมตามตำแหน่งจริง","textPreview":"ยอดนี้มีเงินเผื่อสำหรับ Didi แล้ว แต่ยังไม่รวมค่ารถจากสนามบินถึงโรงแรมตามตำแหน่งจริง","textChars":84,"textLines":1,"bbox":[76,613,1060,28]}
+{"kind":"chart","id":"ch/jqdofito","slide":2,"name":"","chartType":"bar","bbox":[540,187,600,380]}
+{"kind":"notes","id":"nt/jv4mmf","slide":2,"text":"Calculation: attraction admissions ¥1,912; First Class Beijing-Tianjin return ¥704 for four; direct Mutianyu bus allowance ¥400; urban transit and Didi ¥408; PEK airport rail+metro estimate ¥232. Sources on final slide."}
+{"kind":"slide","id":"sl/i8vgxx","slide":3,"title":"ค่าเข้าสถานที่ตามวัน","textShapes":3}
+{"kind":"textbox","id":"sh/4faxozqt","slide":3,"text":"ค่าเข้าสถานที่ตามวัน","textPreview":"ค่าเข้าสถานที่ตามวัน","textChars":20,"textLines":1,"bbox":[72,50,1136,56]}
+{"kind":"textbox","id":"sh/3e1wvupo","slide":3,"text":"ราคาผู้ใหญ่ 4 คน ช่วง low season ของเดือนธันวาคม","textPreview":"ราคาผู้ใหญ่ 4 คน ช่วง low season ของเดือนธันวาคม","textChars":48,"textLines":1,"bbox":[74,109,1120,28]}
+{"kind":"shape","id":"sh/itsfmp83","slide":3,"bbox":[72,145,1136,3]}
+{"kind":"textbox","id":"sh/sjuxszq5","slide":3,"text":"สถานที่ฟรี: Tiananmen Square, Wangfujing, Italian Style Area, Five Great Avenues และ Ancient Culture Street","textPreview":"สถานที่ฟรี: Tiananmen Square, Wangfujing, Italian Style Area, Five Great Avenues และ Ancient Culture Street","textChars":107,"textLines":1,"bbox":[74,605,1090,28]}
+{"kind":"table","id":"tb/wr218b6x","slide":3,"name":"","rows":8,"cols":4,"preview":"วัน | สถานที่ | ต่อคน | 4 คน","bbox":[72,180,1136,390]}
+{"kind":"notes","id":"nt/i8vgxx","slide":3,"text":"Sources: Palace Museum official tickets; Mutianyu official ticketing; Beijing Municipal ticketing pages for Jingshan and Temple of Heaven; Summer Palace official visitor page; Tianjin Eye price notice April 2026; Tianjin Porcelain House listing. Exact links on final slide."}
+{"kind":"slide","id":"sl/9e806a","slide":4,"title":"ค่าเดินทาง","textShapes":7}
+{"kind":"textbox","id":"sh/7axgfid0","slide":4,"text":"ค่าเดินทาง","textPreview":"ค่าเดินทาง","textChars":10,"textLines":1,"bbox":[72,50,1136,56]}
+{"kind":"textbox","id":"sh/8b6xonul","slide":4,"text":"แยกต้นทุนที่กำหนดราคาได้จากงบเผื่อที่ขึ้นกับโรงแรมและเวลาเดินทาง","textPreview":"แยกต้นทุนที่กำหนดราคาได้จากงบเผื่อที่ขึ้นกับโรงแรมและเวลาเดินทาง","textChars":64,"textLines":1,"bbox":[74,109,1120,28]}
+{"kind":"shape","id":"sh/9cfyhsbq","slide":4,"bbox":[72,145,1136,3]}
+{"kind":"textbox","id":"sh/vexgjitw","slide":4,"text":"Metro ปักกิ่ง","textPreview":"Metro ปักกิ่ง","textChars":13,"textLines":1,"bbox":[870,194,270,30]}
+{"kind":"textbox","id":"sh/wfqxsnuh","slide":4,"text":"เริ่ม ¥3 ตามระยะทาง\nCapital Airport Express ¥25/เที่ยว","textPreview":"เริ่ม ¥3 ตามระยะทาง | Capital Airport Express ¥25/เที่ยว","textChars":54,"textLines":2,"bbox":[870,242,290,64]}
+{"kind":"textbox","id":"sh/hgzylsb2","slide":4,"text":"Metro เทียนจิน","textPreview":"Metro เทียนจิน","textChars":14,"textLines":1,"bbox":[870,348,270,30]}
+{"kind":"textbox","id":"sh/ah4fetc7","slide":4,"text":"เริ่ม ¥2 และสูงสุด ¥5\nสำหรับเส้นทางหลักในทริป","textPreview":"เริ่ม ¥2 และสูงสุด ¥5 | สำหรับเส้นทางหลักในทริป","textChars":45,"textLines":2,"bbox":[870,396,280,58]}
+{"kind":"textbox","id":"sh/bidw7yds","slide":4,"text":"Didi ไม่มีราคาตายตัว จึงตั้งงบแทนราคาแน่นอน","textPreview":"Didi ไม่มีราคาตายตัว จึงตั้งงบแทนราคาแน่นอน","textChars":43,"textLines":1,"bbox":[870,497,300,45]}
+{"kind":"table","id":"tb/vaxkbqlo","slide":4,"name":"","rows":7,"cols":3,"preview":"รายการ | 4 คน | สถานะ","bbox":[72,180,740,338]}
+{"kind":"notes","id":"nt/9e806a","slide":4,"text":"Beijing metro fare source: Beijing Subway/Beijing Government, fares start ¥3 and Capital Airport Express ¥25. Tianjin fare source: Tianjin Development and Reform Commission, ¥2-¥5 by station bands. Direct Mutianyu bus and Didi vary; allowance based on current available services and itinerary assumptions."}
+{"kind":"slide","id":"sl/xw2o4d","slide":5,"title":"ปฏิทินการจอง","textShapes":3}
+{"kind":"textbox","id":"sh/wzm9w3q1","slide":5,"text":"ปฏิทินการจอง","textPreview":"ปฏิทินการจอง","textChars":12,"textLines":1,"bbox":[72,50,1136,56]}
+{"kind":"textbox","id":"sh/vydsni9g","slide":5,"text":"นับถอยหลังจากวันเข้าแต่ละสถานที่ เพื่อให้ได้เวลาและที่นั่งตามแผน","textPreview":"นับถอยหลังจากวันเข้าแต่ละสถานที่ เพื่อให้ได้เวลาและที่นั่งตามแผน","textChars":64,"textLines":1,"bbox":[74,109,1120,28]}
+{"kind":"shape","id":"sh/ad4rud8v","slide":5,"bbox":[72,145,1136,3]}
+{"kind":"textbox","id":"sh/k3m90nqx","slide":5,"text":"สำคัญ: ตรวจสอบเวลาเปิดขายใน 12306 อีกครั้ง เพราะตารางรถไฟและโควตาเปลี่ยนได้","textPreview":"สำคัญ: ตรวจสอบเวลาเปิดขายใน 12306 อีกครั้ง เพราะตารางรถไฟและโควตาเปลี่ยนได้","textChars":75,"textLines":1,"bbox":[74,599,1120,27]}
+{"kind":"table","id":"tb/8v2dw76x","slide":5,"name":"","rows":7,"cols":4,"preview":"วันที่ควรทำ | รายการ | ควรจองเมื่อไร | คำแนะนำ","bbox":[72,176,1136,374]}
+{"kind":"notes","id":"nt/xw2o4d","slide":5,"text":"Sources: Palace Museum official ticket policy states sales open 7 days prior. Mutianyu official notice says reservations available within 15 days. 12306 official rail booking is the purchase channel; itinerary source specifies around 21 Nov for 5 Dec. Tianjin Eye booking timing follows the supplied itinerary and should be rechecked on its official platform. Temple of Heaven and Summer Palace official pages specify their WeChat booking platforms."}
+{"kind":"slide","id":"sl/1xbjro","slide":6,"title":"ข้อแนะนำสำหรับทริปนี้","textShapes":12}
+{"kind":"textbox","id":"sh/crexgra1","slide":6,"text":"ข้อแนะนำสำหรับทริปนี้","textPreview":"ข้อแนะนำสำหรับทริปนี้","textChars":21,"textLines":1,"bbox":[72,50,1136,56]}
+{"kind":"textbox","id":"sh/rq5gnm9g","slide":6,"text":"เน้นเดินทางลื่น ลดการเดินชัน และลดโอกาสพลาดการจอง","textPreview":"เน้นเดินทางลื่น ลดการเดินชัน และลดโอกาสพลาดการจอง","textChars":49,"textLines":1,"bbox":[74,109,1120,28]}
+{"kind":"shape","id":"sh/qpwfehsb","slide":6,"bbox":[72,145,1136,3]}
+{"kind":"shape","id":"sh/ponylcrq","slide":6,"bbox":[76,186,12,52]}
+{"kind":"textbox","id":"sh/4nexc7a5","slide":6,"text":"รถไฟ","textPreview":"รถไฟ","textChars":4,"textLines":1,"bbox":[110,181,175,30]}
+{"kind":"textbox","id":"sh/3m5gj29k","slide":6,"text":"เลือก First Class ทั้งไปและกลับ. ต่างจาก Second Class รวม ¥268 สำหรับ 4 คน แต่เหมาะกว่าเมื่อมีกระเป๋า.","textPreview":"เลือก First Class ทั้งไปและกลับ. ต่างจาก Second Class รวม ¥268 สำหรับ 4 คน แต่เหมาะกว่าเมื่อมีกระเป๋า.","textChars":102,"textLines":1,"bbox":[286,181,845,50]}
+{"kind":"shape","id":"sh/21wfaxsz","slide":6,"bbox":[76,266,12,52]}
+{"kind":"textbox","id":"sh/h03yhcbe","slide":6,"text":"Mutianyu","textPreview":"Mutianyu","textChars":8,"textLines":1,"bbox":[110,261,175,30]}
+{"kind":"textbox","id":"sh/gzux87at","slide":6,"text":"ใช้ cable car ไป-กลับและ shuttle ของสถานที่. เดือนธันวาคมควรข้าม toboggan หากพื้นเปียกหรือมีน้ำแข็ง.","textPreview":"ใช้ cable car ไป-กลับและ shuttle ของสถานที่. เดือนธันวาคมควรข้าม toboggan หากพื้นเปียกหรือมีน้ำแข็ง.","textChars":100,"textLines":1,"bbox":[286,261,845,50]}
+{"kind":"shape","id":"sh/e1gfypsj","slide":6,"bbox":[76,346,12,52]}
+{"kind":"textbox","id":"sh/z2pw7a94","slide":6,"text":"การจอง","textPreview":"การจอง","textChars":6,"textLines":1,"bbox":[110,341,175,30]}
+{"kind":"textbox","id":"sh/03yx0fqp","slide":6,"text":"ตั้งเตือน 26 พ.ย. 20:00 สำหรับ Forbidden City. ถ้าเต็ม ให้ปรับเวลาในวันเดียวกัน ไม่ควรรอหน้าสถานที่.","textPreview":"ตั้งเตือน 26 พ.ย. 20:00 สำหรับ Forbidden City. ถ้าเต็ม ให้ปรับเวลาในวันเดียวกัน ไม่ควรรอหน้าสถานที่.","textChars":100,"textLines":1,"bbox":[286,341,845,50]}
+{"kind":"shape","id":"sh/147e9kra","slide":6,"bbox":[76,426,12,52]}
+{"kind":"textbox","id":"sh/qdwvu5sn","slide":6,"text":"สนามบิน","textPreview":"สนามบิน","textChars":7,"textLines":1,"bbox":[110,421,175,30]}
+{"kind":"textbox","id":"sh/ry5w3a98","slide":6,"text":"ยืนยันว่าออก PEK หรือ PKX และส่งชื่อโรงแรมก่อนเดินทาง. รายการนี้เปลี่ยนเส้นทางและงบรถรับส่งมากที่สุด.","textPreview":"ยืนยันว่าออก PEK หรือ PKX และส่งชื่อโรงแรมก่อนเดินทาง. รายการนี้เปลี่ยนเส้นทางและงบรถรับส่งมากที่สุด.","textChars":101,"textLines":1,"bbox":[286,421,845,50]}
+{"kind":"shape","id":"sh/czexwfat","slide":6,"bbox":[76,506,12,52]}
+{"kind":"textbox","id":"sh/d0ne5kre","slide":6,"text":"การจ่ายเงิน","textPreview":"การจ่ายเงิน","textChars":11,"textLines":1,"bbox":[110,501,175,30]}
+{"kind":"textbox","id":"sh/29cvqlsr","slide":6,"text":"ผูกบัตรต่างประเทศกับ Alipay หรือ WeChat Pay และพกพาสปอร์ตที่ใช้จองทุกสถานที่.","textPreview":"ผูกบัตรต่างประเทศกับ Alipay หรือ WeChat Pay และพกพาสปอร์ตที่ใช้จองทุกสถานที่.","textChars":77,"textLines":1,"bbox":[286,501,845,50]}
+{"kind":"notes","id":"nt/1xbjro","slide":6,"text":"Recommendations based on itinerary traveler ages, luggage mentioned in itinerary, official booking terms, and winter safety considerations. No claim of weather certainty."}
+{"kind":"slide","id":"sl/fxuure","slide":7,"title":"แหล่งข้อมูล","textShapes":14}
+{"kind":"textbox","id":"sh/d4jelcvi","slide":7,"text":"แหล่งข้อมูล","textPreview":"แหล่งข้อมูล","textChars":11,"textLines":1,"bbox":[72,52,600,52]}
+{"kind":"textbox","id":"sh/q1svqxcr","slide":7,"text":"ราคาควรตรวจอีกครั้งก่อนชำระเงินจริง โดยเฉพาะรถไฟ Didi และรถบัส","textPreview":"ราคาควรตรวจอีกครั้งก่อนชำระเงินจริง โดยเฉพาะรถไฟ Didi และรถบัส","textChars":62,"textLines":1,"bbox":[74,112,1070,28]}
+{"kind":"textbox","id":"sh/r21cj2dc","slide":7,"text":"Forbidden City: https://intl.dpm.org.cn/visit","textPreview":"Forbidden City: https://intl.dpm.org.cn/visit","textChars":45,"textLines":1,"bbox":[80,177,1110,26]}
+{"kind":"textbox","id":"sh/07udw7u9","slide":7,"text":"Mutianyu official ticketing: https://fx.mutianyugreatwall.com/fore/index?disCode=736798","textPreview":"Mutianyu official ticketing: https://fx.mutianyugreatwall.com/fore/index?disCode=736798","textChars":87,"textLines":1,"bbox":[80,211,1110,26]}
+{"kind":"textbox","id":"sh/183epcve","slide":7,"text":"Mutianyu visitor notice: https://en.mutianyugreatwall.com/article/4DlCYuBZ75h","textPreview":"Mutianyu visitor notice: https://en.mutianyugreatwall.com/article/4DlCYuBZ75h","textChars":77,"textLines":1,"bbox":[80,245,1110,26]}
+{"kind":"textbox","id":"sh/e5cvuxc3","slide":7,"text":"Temple of Heaven: https://english.beijing.gov.cn/specials/parktours/guidevisitors/templeofheaven/overview/202301/t20230112_2897365.html","textPreview":"Temple of Heaven: https://english.beijing.gov.cn/specials/parktours/guidevisitors/templeofheaven/overview/202301/t20230112_2897365.html","textChars":135,"textLines":1,"bbox":[80,279,1110,26]}
+{"kind":"textbox","id":"sh/z6lwn2do","slide":7,"text":"Jingshan Park: https://english.beijing.gov.cn/specials/ticketing/parks/202407/t20240719_3753324.html","textPreview":"Jingshan Park: https://english.beijing.gov.cn/specials/ticketing/parks/202407/t20240719_3753324.html","textChars":100,"textLines":1,"bbox":[80,313,1110,26]}
+{"kind":"textbox","id":"sh/gbqdknep","slide":7,"text":"Summer Palace: https://english.visitbeijing.com.cn/article/4Jaqw6nQVBN","textPreview":"Summer Palace: https://english.visitbeijing.com.cn/article/4Jaqw6nQVBN","textChars":70,"textLines":1,"bbox":[80,347,1110,26]}
+{"kind":"textbox","id":"sh/hczudsva","slide":7,"text":"Tianjin Eye price notice: https://m.tj.bendibao.com/xiuxian/167820.shtm?src=amap","textPreview":"Tianjin Eye price notice: https://m.tj.bendibao.com/xiuxian/167820.shtm?src=amap","textChars":80,"textLines":1,"bbox":[80,381,1110,26]}
+{"kind":"textbox","id":"sh/5kf6903q","slide":7,"text":"Porcelain House: https://r.visitbeijing.com.cn/cultural-brigade/43","textPreview":"Porcelain House: https://r.visitbeijing.com.cn/cultural-brigade/43","textChars":66,"textLines":1,"bbox":[80,415,1110,26]}
+{"kind":"textbox","id":"sh/4jm50vml","slide":7,"text":"Beijing metro: https://english.beijing.gov.cn/specials/beijinglifeonthesubway/noticeforpassengers/202504/t20250423_4072294.html","textPreview":"Beijing metro: https://english.beijing.gov.cn/specials/beijinglifeonthesubway/noticeforpassengers/202504/t20250423_4072294.html","textChars":127,"textLines":1,"bbox":[80,449,1110,26]}
+{"kind":"textbox","id":"sh/3id47ql0","slide":7,"text":"Tianjin metro: https://fzgg.tj.gov.cn/zmhd/gzcx/syjgcx/kyfw/202112/t20211216_5752650.html","textPreview":"Tianjin metro: https://fzgg.tj.gov.cn/zmhd/gzcx/syjgcx/kyfw/202112/t20211216_5752650.html","textChars":89,"textLines":1,"bbox":[80,483,1110,26]}
+{"kind":"textbox","id":"sh/ih4nyl4f","slide":7,"text":"China Railway 12306: https://www.12306.cn/en/","textPreview":"China Railway 12306: https://www.12306.cn/en/","textChars":45,"textLines":1,"bbox":[80,517,1110,26]}
+{"kind":"textbox","id":"sh/d8f6d032","slide":7,"text":"ใช้กำหนดการจากไฟล์ Beijing_Tianjin_Trip_3-7_Dec_2026_Detailed_v2.pdf","textPreview":"ใช้กำหนดการจากไฟล์ Beijing_Tianjin_Trip_3-7_Dec_2026_Detailed_v2.pdf","textChars":68,"textLines":1,"bbox":[80,592,1050,24]}
+{"kind":"notes","id":"nt/fxuure","slide":7,"text":"All sources listed visibly on slide. Trip itinerary source: Beijing_Tianjin_Trip_3-7_Dec_2026_Detailed_v2.pdf."}
