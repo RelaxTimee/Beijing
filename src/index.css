@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-paper text-ink font-sans leading-relaxed m-0; }
+}
+
+@layer utilities {
+  .shell {
+    @apply w-full max-w-[1140px] mx-auto px-5;
+  }
+}
